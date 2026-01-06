@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "91102acecbd3b105",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be8624607243af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60377c77fa7fad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92515f1edcac97bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dceb5d728953087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b70d06ad8ba527b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81ee063f69f3368e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1bceda29fcc8b044",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "912cb94881305f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd994995916b42fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6073f7d37beffda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Forelesninger/Kap 3-3 02.09.25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kap 3-3 02.09.25"
+            }
+          },
+          {
+            "id": "948b7662ed6399d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fd836a917f5b8af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe6251ec4d25841a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cc1f78c8c087eedb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "15bc08506c3f4bdd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "e60377c77fa7fad4",
+  "lastOpenFiles": [
+    "Pasted image 20260106090311.png",
+    "Pasted image 20260106085851.png",
+    "Pasted image 20260106085505.png",
+    "Test.md",
+    "Forelesninger/Forelesning 01.06.26.md",
+    "Forelesninger",
+    "Arbeidshefter/3-10/3-10-lf.pdf",
+    "Arbeidshefter/3-10/3-10.pdf",
+    "Arbeidshefter/3-11/3-11-lf.pdf",
+    "Forelesninger/Forelesning 11.18.25.md",
+    "Eksamen/tma4111-23k-lf.pdf",
+    "Eksamen/tma4111-23k-bm.pdf",
+    "Untitled 1.md",
+    "Arbeidshefter/3-8/3-8.pdf",
+    "Arbeidshefter/3-9/3-9.pdf",
+    "Arbeidshefter/3-12/Oppgaver 1.md",
+    "Arbeidshefter/3-12/3-12.pdf",
+    "Arbeidshefter/3-11/3-11.pdf",
+    "Forelesninger/Kap 3-7 30.09.25.md",
+    "Forelesninger/Kap 3-12 11.11.25.md",
+    "Eksamen/Ting skal kunne og må jobbe med.md",
+    "Arbeidshefter/3-4/Oppgaver 1 1.md",
+    "Arbeidshefter/3-3/Oppgaver.md",
+    "Arbeidshefter/3-2/Oppgaver.md",
+    "Arbeidshefter/3-1/Oppgaver.md",
+    "Arbeidshefter/3-7/Oppgaver 1.md",
+    "Arbeidshefter/3-9/Oppgaver 1.md",
+    "Forelesninger/Kap 3-9 14.10.25.md",
+    "Forelesninger/Kap 3-8 07.10.25.md",
+    "Pasted image 20251111083209.png",
+    "Pasted image 20251106153723.png",
+    "Forelesninger/Kap 3-11 04.11.25.md",
+    "Bilder/Forelesninger/Pasted image 20251104083019.png",
+    "Forelesninger/Kap 3-10 28.10.25.md",
+    "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
+    "Bilder/Forelesninger/Pasted image 20251007092901.png",
+    "Oppgaver å dra tilbake til.md",
+    "Bilder/Forelesninger/14.10.25 nr 1.png",
+    "Bilder/Forelesninger/Pasted image 20251007084628.png",
+    "Forelesninger/Kap 3-3 02.09.25.md",
+    "Forelesninger/Kap 3-5 16.09.25.md",
+    "Forelesninger/Kap 3-4 09.09.25.md",
+    "Forelesninger/Kap 3-6 23.09.25.md",
+    "Forelesninger/Kap 3-1 19.08.25.md",
+    "Bilder/Forelesninger/Pasted image 20250930094426.png"
+  ]
+}
