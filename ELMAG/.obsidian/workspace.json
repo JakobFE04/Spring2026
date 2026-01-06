@@ -11,10 +11,14 @@
             "id": "e60377c77fa7fad4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notater/Notat 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notat 1"
             }
           }
         ]
@@ -186,8 +190,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15bc08506c3f4bdd",
+  "active": "e60377c77fa7fad4",
   "lastOpenFiles": [
+    "Notater/Notat 1.md",
+    "Notater",
+    "Forelesninger",
     "Arbeidshefter/3-10/3-10-lf.pdf",
     "Arbeidshefter/3-10/3-10.pdf",
     "Arbeidshefter/3-11/3-11-lf.pdf",
@@ -199,11 +206,9 @@
     "Arbeidshefter/3-9/3-9.pdf",
     "Arbeidshefter/3-12/Oppgaver 1.md",
     "Arbeidshefter/3-12/3-12.pdf",
-    "Arbeidshefter/3-11/3-11.pdf",
     "Forelesninger/Kap 3-7 30.09.25.md",
     "Forelesninger/Kap 3-12 11.11.25.md",
     "Eksamen/Ting skal kunne og må jobbe med.md",
-    "Arbeidshefter/3-4/3-4.pdf",
     "Arbeidshefter/3-4/Oppgaver 1 1.md",
     "Arbeidshefter/3-3/Oppgaver.md",
     "Arbeidshefter/3-2/Oppgaver.md",
