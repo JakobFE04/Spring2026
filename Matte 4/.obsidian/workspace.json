@@ -11,13 +11,28 @@
             "id": "e60377c77fa7fad4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/4-1/4-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-1"
+            }
+          },
+          {
+            "id": "9a4a48a9022c3518",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/4-1/4-1-lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-1-lf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,14 +201,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b70d06ad8ba527b3",
+  "active": "9a4a48a9022c3518",
   "lastOpenFiles": [
-    "Arbeidshefter/4-1/4-1-lf.pdf",
     "Arbeidshefter/4-1/4-1.pdf",
+    "Arbeidshefter/4-1/4-1-lf.pdf",
+    "Test 2.md",
     "Arbeidshefter/4-1",
     "Arbeidshefter",
     "Forelesninger",
-    "Test 2.md",
     "Arbeidshefter/3-10/3-10-lf.pdf",
     "Arbeidshefter/3-10/3-10.pdf",
     "Arbeidshefter/3-11/3-11-lf.pdf",
@@ -201,7 +216,6 @@
     "Eksamen/tma4111-23k-lf.pdf",
     "Eksamen/tma4111-23k-bm.pdf",
     "Untitled 1.md",
-    "Arbeidshefter/3-8/3-8.pdf",
     "Arbeidshefter/3-12/Oppgaver 1.md",
     "Forelesninger/Kap 3-7 30.09.25.md",
     "Forelesninger/Kap 3-12 11.11.25.md",
