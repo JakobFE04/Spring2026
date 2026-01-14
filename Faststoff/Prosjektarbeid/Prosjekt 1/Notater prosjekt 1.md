@@ -54,3 +54,25 @@ $$
  \implies 2A\sin(kx)\cos(\omega t) 
  \end{equation} 
 $$
+
+
+Noder: $\sum_{n=0}^{\infty}\frac{\pi}{k}\cdot n$
+Anti-noder: $\sum_{n=0}^{\infty} \frac{\pi}{k}\cdot n+ \frac{\pi}{2k}$
+
+$$
+ \begin{equation} 
+ \omega=\frac{5\pi v}{L} \implies f=\frac{5v}{2L}
+ \end{equation} 
+$$
+
+
+# Compton-effekt:
+En fotonpakke i en elektromagnetisk bølge kan kollidere med frie elektroner som fører til en overføring av energi til atomet ved bevegelsesmengde. Dette fører til at fotonet mister energi og får dermed lengre bølgelengde/mindre frekvens. Målet på dette kan utrykkes ved $$
+ \begin{equation} 
+ \Delta \lambda=\lambda_{0}(1-\cos \theta), \  \text{der } \lambda_{0}=\frac{h}{mc} = 2.4262 \cdot 10 ^{-12}\text{m}.
+ \end{equation} 
+$$
+Der $\theta$ er vinkelen mellom originale bevegelsesretningen til fotonet og den nye. Både energi og bevegelsesmengde er bevart under prossessen.
+![[Pasted image 20260112133232.png]]
+**Professor Arthur Holly Compton** (1892-1962), oppdaget i 1923. Den viser at elektromagnetisk stråling må tillegges en form for partikkelnatur og ikke alltid kan sees på som en utbredt bølge.
+
