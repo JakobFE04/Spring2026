@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e60377c77fa7fad4",
+            "id": "c04f1d7f23a399f3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-1/4-1.pdf"
+                "file": "Arbeidshefter/4-5/4-5.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-1"
+              "title": "4-5"
             }
           },
           {
-            "id": "9a4a48a9022c3518",
+            "id": "71830d414aa15a3a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-1/4-1-lf.pdf"
+                "file": "Arbeidshefter/4-5/4-5-lf.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-1-lf"
+              "title": "4-5-lf"
             }
           },
           {
-            "id": "bf88d123749ecfd8",
+            "id": "ddd8e85db1911e50",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/4-4/4-4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-4"
+            }
+          },
+          {
+            "id": "e6519bda93eb5a0b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -44,7 +56,7 @@
             }
           },
           {
-            "id": "57f6265160387f4e",
+            "id": "3758dc69e7bed160",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -55,8 +67,7 @@
               "title": "4-2-lf"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,20 +237,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bf88d123749ecfd8",
+  "active": "c04f1d7f23a399f3",
   "lastOpenFiles": [
+    "Arbeidshefter/4-5/4-5-lf.pdf",
     "Arbeidshefter/4-2/4-2-lf.pdf",
     "Arbeidshefter/4-2/4-2.pdf",
-    "Arbeidshefter/4-1/4-1-lf.pdf",
-    "Arbeidshefter/4-2",
+    "Arbeidshefter/4-5/4-5.pdf",
+    "Arbeidshefter/4-4/4-4.pdf",
+    "Arbeidshefter/4-5",
+    "Arbeidshefter/4-3/4-3.pdf",
+    "Arbeidshefter/4-4/4-4-lf.pdf",
+    "Untitled.md",
+    "Arbeidshefter/4-3/4-3-lf.pdf",
     "Arbeidshefter/4-1/4-1.pdf",
+    "Arbeidshefter/4-1/4-1-lf.pdf",
     "Test 2.md",
-    "Arbeidshefter/4-1",
-    "Arbeidshefter",
-    "Forelesninger",
-    "Arbeidshefter/3-10/3-10-lf.pdf",
-    "Arbeidshefter/3-10/3-10.pdf",
-    "Arbeidshefter/3-11/3-11-lf.pdf",
     "Forelesninger/Forelesning 11.18.25.md",
     "Untitled 1.md",
     "Arbeidshefter/3-12/Oppgaver 1.md",
@@ -271,7 +284,6 @@
     "Bilder/Forelesninger/Pasted image 20250930094426.png",
     "Bilder/Forelesninger/30.09.25 Bilde nr 3.jpg",
     "Bilder/Forelesninger/30.09.25 Bilde nr 2.jpg",
-    "Bilder/Forelesninger/30.09.25 Bilde nr 1.jpg",
-    "Forelesninger/Kap 3-2 26.08.25.md"
+    "Bilder/Forelesninger/30.09.25 Bilde nr 1.jpg"
   ]
 }

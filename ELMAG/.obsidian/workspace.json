@@ -8,66 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e60377c77fa7fad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Forelesning 09.01.26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelesning 09.01.26"
-            }
-          },
-          {
-            "id": "43d79c81a41b051f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercises/Exercise 1/Exercise 1 Vector Analysis 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exercise 1 Vector Analysis 1"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2bd4d23e571c31af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f9ab3e4270dc5f7d",
+            "id": "7e6bb04a1d36b23f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf"
+                "file": "elmag5thEd.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999)"
-            }
-          },
-          {
-            "id": "f9f8e79c0e659243",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exercises/Exercise 1/Exercise_Session_1_2026(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise_Session_1_2026(1)"
+              "title": "elmag5thEd"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -220,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,23 +189,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f9f8e79c0e659243",
+  "active": "7e6bb04a1d36b23f",
   "lastOpenFiles": [
-    "David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
+    "Exercises/Exercise 4/Exercise 4.pdf",
+    "Exercises/Exercise 4",
+    "Lab.md",
+    "Labs/Lab 1/Measurements.ggb",
+    "Labs/Lab 1/Calculations.ggb",
+    "Labs/Lab 1",
+    "Labs/NewFolder",
+    "Labs",
+    "NewFolder",
+    "elmag5thEd.pdf",
+    "Exercises/Exercise 3/1000142137_260201_151150.pdf",
+    "Exercises/Exercise 3",
+    "Bilder/Pasted image 20260127144035.png",
+    "Bilder/Pasted image 20260127144003.png",
+    "Bilder/Pasted image 20260120155334.png",
+    "Exercises/Exercise 2/Exercise 2.md",
     "Exercises/Exercise 1/Exercise 1 Vector Analysis 1.md",
-    "Exercises/Exercise 1/Exercise_Session_1_2026(1).pdf",
-    "Exercises/Exercise 1",
-    "Forelesninger/Forelesning 09.01.26.md",
-    "Bilder",
+    "Forelesninger/Forelesning 01.16.26.md",
+    "Bilder/Pasted image 20260120150038.png",
+    "Bilder/Pasted image 20260120150030.png",
+    "Bilder/Pasted image 20260120150022.png",
+    "Bilder/Pasted image 20260120150010.png",
+    "Forelesninger/Forelesning 01.09.26.md",
     "Bilder/Pasted image 20260109114653.png",
     "Notater/Notat 1.md",
-    "Notater",
-    "Forelesninger",
-    "Arbeidshefter/3-10/3-10-lf.pdf",
-    "Arbeidshefter/3-10/3-10.pdf",
-    "Arbeidshefter/3-11/3-11-lf.pdf",
     "Forelesninger/Forelesning 11.18.25.md",
-    "Eksamen/tma4111-23k-lf.pdf",
     "Untitled 1.md",
     "Arbeidshefter/3-12/Oppgaver 1.md",
     "Forelesninger/Kap 3-7 30.09.25.md",
@@ -268,21 +231,11 @@
     "Forelesninger/Kap 3-9 14.10.25.md",
     "Forelesninger/Kap 3-8 07.10.25.md",
     "Pasted image 20251111083209.png",
-    "Untitled.md",
     "Pasted image 20251106153723.png",
     "Forelesninger/Kap 3-11 04.11.25.md",
-    "Bilder/Forelesninger/Pasted image 20251104083019.png",
     "Forelesninger/Kap 3-10 28.10.25.md",
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
-    "Bilder/Forelesninger/Pasted image 20251007092901.png",
     "Oppgaver å dra tilbake til.md",
-    "Bilder/Forelesninger/14.10.25 nr 1.png",
-    "Bilder/Forelesninger/Pasted image 20251007084628.png",
-    "Forelesninger/Kap 3-3 02.09.25.md",
-    "Forelesninger/Kap 3-5 16.09.25.md",
-    "Forelesninger/Kap 3-4 09.09.25.md",
-    "Bilder/Forelesninger/Pasted image 20250930094426.png",
-    "Bilder/Forelesninger/30.09.25 Bilde nr 3.jpg",
-    "Bilder/Forelesninger/30.09.25 Bilde nr 2.jpg"
+    "Forelesninger/Kap 3-3 02.09.25.md"
   ]
 }

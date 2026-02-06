@@ -37,30 +37,18 @@
             "id": "19659284c9bc467f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Prosjektarbeid/Prosjekt 1/Prosjekt 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Prosjekt 1"
-            }
-          },
-          {
-            "id": "85e5fd3cf7abb55d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Prosjektarbeid/Prosjekt 1/Notater prosjekt 1.md",
+                "file": "Prosjektarbeid/Prosjekt 3/Notat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notater prosjekt 1"
+              "title": "Notat"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,13 +218,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "85e5fd3cf7abb55d",
+  "active": "19659284c9bc467f",
   "lastOpenFiles": [
-    "Pasted image 20260112133232.png",
+    "Prosjektarbeid/Prosjekt 3/Opgave 2.ggb",
     "Prosjektarbeid/Prosjekt 1/Prosjekt 1.pdf",
+    "Prosjektarbeid/Prosjekt 3/Notat.md",
+    "Prosjektarbeid/Prosjekt 2/Notater.md",
+    "Pasted image 20260120133218.png",
+    "Prosjektarbeid/Prosjekt 1/Notater prosjekt 1.md",
+    "Pasted image 20260112133232.png",
     "Video notater/Notat 1.md",
     "Førelesingsplan_2026.pdf",
-    "Prosjektarbeid/Prosjekt 1/Notater prosjekt 1.md",
     "Forelesninger/Forelesning 01.06.26.md",
     "Faststoff Bok.pdf",
     "BIlder/Pasted image 20260107091409.png",
@@ -273,10 +265,6 @@
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
     "Bilder/Forelesninger/Pasted image 20251007092901.png",
     "Oppgaver å dra tilbake til.md",
-    "Bilder/Forelesninger/14.10.25 nr 1.png",
-    "Bilder/Forelesninger/Pasted image 20251007084628.png",
-    "Forelesninger/Kap 3-3 02.09.25.md",
-    "Forelesninger/Kap 3-5 16.09.25.md",
-    "Forelesninger/Kap 3-4 09.09.25.md"
+    "Forelesninger/Kap 3-3 02.09.25.md"
   ]
 }

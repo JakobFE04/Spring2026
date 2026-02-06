@@ -1,0 +1,1 @@
+$E_{n}^{(0)}$ i stiplet linjer og $E_{n}^{(1)}=E_{n}^{(0)}+\frac{V_{0}}{2}$ over: 
