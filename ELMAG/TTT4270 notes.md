@@ -11,3 +11,10 @@ https://drive.google.com/file/d/1K1RxgbNbvrErOX3CBtbcIcriACYm9Sm6/view slide 31
 
 
 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
+
+
+
+# IMU calculations
+
+Correction of accelerometer
+![[Pasted image 20260226131019.png]]
