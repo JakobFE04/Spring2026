@@ -18,3 +18,8 @@ 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
 
 Correction of accelerometer
 ![[Pasted image 20260226131019.png]]
+
+
+![[Pasted image 20260302114108.png]]
+Proof of Kalman filter "fungerer"
+

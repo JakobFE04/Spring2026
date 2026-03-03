@@ -8,39 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb6fff6b784f2b88",
+            "id": "e95f44ea1499acb3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-7/4-7.pdf"
+                "file": "Arbeidshefter/4-9/4-9.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-7"
+              "title": "4-9"
             }
           },
           {
-            "id": "aec6e51912b3ff47",
+            "id": "405cf3afe0dcc03e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-7/4-7-lf.pdf"
+                "file": "Arbeidshefter/4-9/4-9-lf.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-7-lf"
+              "title": "4-9-lf"
             }
           },
           {
-            "id": "f4d80e6b6b8afd31",
+            "id": "46ddc1cf7e6580a6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-3/4-3.pdf"
+                "file": "Arbeidshefter/4-8/4-8.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-3"
+              "title": "4-8"
             }
           }
         ]
@@ -213,19 +213,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cb6fff6b784f2b88",
+  "active": "e95f44ea1499acb3",
   "lastOpenFiles": [
+    "Arbeidshefter/4-9/4-9-lf.pdf",
+    "Arbeidshefter/4-9/4-9.pdf",
+    "Arbeidshefter/4-8/4-8.pdf",
+    "Arbeidshefter/4-8/4-8-lf.pdf",
+    "Arbeidshefter/4-9",
+    "Arbeidshefter/4-3/4-3.pdf",
     "Arbeidshefter/4-7/4-7-lf.pdf",
     "Arbeidshefter/4-7/4-7.pdf",
-    "Arbeidshefter/4-3/4-3.pdf",
     "Arbeidshefter/4-4/4-4.pdf",
     "Arbeidshefter/4-5/4-5.pdf",
     "Arbeidshefter/4-6/4-6.pdf",
-    "Arbeidshefter/4-6/4-6-lf.pdf",
-    "Arbeidshefter/4-7",
-    "Arbeidshefter/4-2/4-2-lf.pdf",
-    "Arbeidshefter/4-3/4-3-lf.pdf",
-    "Arbeidshefter/4-2/4-2.pdf",
     "Untitled.md",
     "Test 2.md",
     "Forelesninger/Forelesning 11.18.25.md",
