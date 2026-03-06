@@ -4,46 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5be8624607243af2",
+        "id": "f277e363d0fe4343",
         "type": "tabs",
-        "dimension": 48.30640958832726,
+        "dimension": 53.46534653465347,
         "children": [
           {
-            "id": "df0cd1161e62f28e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exercises/Exercise 7/Exercise 7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise 7"
-            }
-          },
-          {
-            "id": "dbeda6e0ad64bea6",
+            "id": "aa6e67ae8019b020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab 2 notes.md",
+                "file": "Exercises/Exercise 8/Exercise 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 notes"
-            }
-          },
-          {
-            "id": "aa0bc118d2077722",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Exercise 8"
             }
           }
         ]
@@ -51,7 +27,7 @@
       {
         "id": "670d6c19d4bc1df7",
         "type": "tabs",
-        "dimension": 51.69359041167274,
+        "dimension": 46.53465346534654,
         "children": [
           {
             "id": "238bba60424a8449",
@@ -66,18 +42,19 @@
             }
           },
           {
-            "id": "4ec193f1146ad4fc",
+            "id": "07d0746445c5581d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Exercises/Exercise 7/Exercise_Session_7_2026.pdf"
+                "file": "Exercises/Exercise 8/Exercise_Session_8_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Exercise_Session_7_2026"
+              "title": "Exercise_Session_8_2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -246,15 +224,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "238bba60424a8449",
+  "active": "aa6e67ae8019b020",
   "lastOpenFiles": [
+    "Exercises/Exercise 8/Exercise 8 (copy).zip",
+    "Exercises/Exercise 8/Exercise 8 (copy).pdf",
+    "Exercises/Exercise 8/Exercise 8.pdf",
+    "Exercises/Exercise 8/Exercise_Session_8_2026.pdf",
+    "Bilder/elmag5thEd.pdf",
+    "Exercises/Exercise 8/Exercise 8.md",
+    "Pasted image 20260306133200.png",
+    "Pasted image 20260306133142.png",
+    "Pasted image 20260305163351.png",
+    "Pasted image 20260305163335.png",
+    "Bilder/Pasted image 20260208150943.png",
+    "TTT4270 notes.md",
+    "Lab 2 notes.md",
+    "Exercises/Exercise 7/Exercise_Session_7_2026.pdf",
     "Exercises/Exercise 7/Exercise 7.pdf",
     "Exercises/Exercise 7/Exercise 7.md",
-    "TTT4270 notes.md",
     "Pasted image 20260302114108.png",
-    "Lab 2 notes.md",
-    "Bilder/elmag5thEd.pdf",
-    "Exercises/Exercise 7/Exercise_Session_7_2026.pdf",
     "Pasted image 20260227161222.png",
     "Pasted image 20260227161216.png",
     "Pasted image 20260227143426.png",
@@ -264,16 +252,8 @@
     "Pasted image 20260226131019.png",
     "Exercises/Exercise 6/test.md",
     "Exercises/Exercise 6/Exercise 6.pdf",
-    "Pasted image 20260224173759.png",
-    "Pasted image 20260224170914.png",
     "Exercises/Exercise 5/Exercise_Session_5_2026.pdf",
-    "Exercises/Exercise 6",
     "Exercises/Exercise 5/Exercise 5.md",
-    "Exercises/Exercise 5/Exercise 5.pdf",
-    "Bilder/Pasted image 20260218141956.png",
-    "Bilder/Pasted image 20260218141945.png",
-    "Bilder/Pasted image 20260218125754.png",
-    "Exercises/Exercise 5",
     "Lab.md",
     "Exercises/Exercise 2/Exercise 2.md",
     "Exercises/Exercise 1/Exercise 1 Vector Analysis 1.md",
@@ -291,7 +271,6 @@
     "Arbeidshefter/3-2/Oppgaver.md",
     "Arbeidshefter/3-1/Oppgaver.md",
     "Arbeidshefter/3-7/Oppgaver 1.md",
-    "Arbeidshefter/3-9/Oppgaver 1.md",
-    "Forelesninger/Kap 3-9 14.10.25.md"
+    "Arbeidshefter/3-9/Oppgaver 1.md"
   ]
 }

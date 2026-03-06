@@ -44,3 +44,9 @@ $$
  \left| \frac{v_{in}}{e} \right|= \frac{R}{\sqrt{ R^2+(\omega L)^2 }}=\frac{1}{\sqrt{ 1+\left( \frac{\omega L}{R} \right)^2 }} 
  \end{equation} 
 $$
+
+$$
+ \begin{equation} 
+  
+ \end{equation} 
+$$
