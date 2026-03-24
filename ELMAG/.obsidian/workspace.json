@@ -6,20 +6,20 @@
       {
         "id": "f277e363d0fe4343",
         "type": "tabs",
-        "dimension": 53.46534653465347,
+        "dimension": 46.37832204273059,
         "children": [
           {
-            "id": "aa6e67ae8019b020",
+            "id": "ee9fb9cee4234b54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Exercise 8/Exercise 8.md",
+                "file": "Exercises/Exercise 10/Exercise 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercise 8"
+              "title": "Exercise 10"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "670d6c19d4bc1df7",
         "type": "tabs",
-        "dimension": 46.53465346534654,
+        "dimension": 53.62167795726941,
         "children": [
           {
             "id": "238bba60424a8449",
@@ -42,15 +42,15 @@
             }
           },
           {
-            "id": "07d0746445c5581d",
+            "id": "c65627e1b0a77d5a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Exercises/Exercise 8/Exercise_Session_8_2026.pdf"
+                "file": "Exercises/Exercise 10/Exercise_Session_10_2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Exercise_Session_8_2026"
+              "title": "Exercise_Session_10_2026"
             }
           }
         ],
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -224,35 +223,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa6e67ae8019b020",
+  "active": "ee9fb9cee4234b54",
   "lastOpenFiles": [
+    "Exercises/Exercise 10/Exercise 10.pdf",
+    "Pasted image 20260324145118.png",
+    "Exercises/Exercise 10/Exercise_Session_10_2026.pdf",
+    "Exercises/Exercise 10/Exercise 10.md",
+    "Pasted image 20260324142922.png",
+    "Bilder/elmag5thEd.pdf",
+    "Pasted image 20260324140946.png",
+    "Pasted image 20260324125507.png",
+    "TTT4270 notes.md",
+    "Exercises/Exercise 9/Exercise 9.md",
+    "Pasted image 20260224170914.png",
+    "Bilder/Pasted image 20260317150536.png",
+    "Bilder/Pasted image 20260317150513.png",
+    "Bilder/Pasted image 20260306133200.png",
+    "Bilder/Pasted image 20260306133142.png",
+    "Bilder/Pasted image 20260305163351.png",
+    "Exercises/Exercise 9/Exercise_Session_9_2026.pdf",
+    "Exercises/Exercise 9/Exercise 9.pdf",
+    "Exercises/Exercise 9",
+    "Exercises/Exercise 8/Exercise 8.md",
+    "Exercises/Exercise 8/Exercise_Session_8_2026(1).pdf",
+    "Exercises/Exercise 8/Exercise_Session_8_2026.pdf",
     "Exercises/Exercise 8/Exercise 8 (copy).zip",
     "Exercises/Exercise 8/Exercise 8 (copy).pdf",
     "Exercises/Exercise 8/Exercise 8.pdf",
-    "Exercises/Exercise 8/Exercise_Session_8_2026.pdf",
-    "Bilder/elmag5thEd.pdf",
-    "Exercises/Exercise 8/Exercise 8.md",
-    "Pasted image 20260306133200.png",
-    "Pasted image 20260306133142.png",
-    "Pasted image 20260305163351.png",
-    "Pasted image 20260305163335.png",
-    "Bilder/Pasted image 20260208150943.png",
-    "TTT4270 notes.md",
     "Lab 2 notes.md",
-    "Exercises/Exercise 7/Exercise_Session_7_2026.pdf",
-    "Exercises/Exercise 7/Exercise 7.pdf",
     "Exercises/Exercise 7/Exercise 7.md",
-    "Pasted image 20260302114108.png",
-    "Pasted image 20260227161222.png",
-    "Pasted image 20260227161216.png",
-    "Pasted image 20260227143426.png",
     "Exercises/Exercise 6/Exercise 6.md",
-    "Exercises/Exercise 6/Exercise_Session_6_2026.pdf",
-    "Exercises/Exercise 7",
-    "Pasted image 20260226131019.png",
     "Exercises/Exercise 6/test.md",
-    "Exercises/Exercise 6/Exercise 6.pdf",
-    "Exercises/Exercise 5/Exercise_Session_5_2026.pdf",
     "Exercises/Exercise 5/Exercise 5.md",
     "Lab.md",
     "Exercises/Exercise 2/Exercise 2.md",
@@ -269,8 +270,6 @@
     "Arbeidshefter/3-4/Oppgaver 1 1.md",
     "Arbeidshefter/3-3/Oppgaver.md",
     "Arbeidshefter/3-2/Oppgaver.md",
-    "Arbeidshefter/3-1/Oppgaver.md",
-    "Arbeidshefter/3-7/Oppgaver 1.md",
-    "Arbeidshefter/3-9/Oppgaver 1.md"
+    "Arbeidshefter/3-1/Oppgaver.md"
   ]
 }

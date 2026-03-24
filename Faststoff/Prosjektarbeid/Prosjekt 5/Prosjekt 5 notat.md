@@ -56,3 +56,16 @@ $$
  k=\sqrt{ a_{0}\zeta } 
  \end{equation} 
 $$
+
+
+
+$$
+ \begin{equation} 
+ E_{Ledningsbånd}(n) =\frac{\pi^2\hbar^2}{2m_{e}L^2}n^2
+ \end{equation} 
+$$
+$$
+ \begin{equation} 
+ E_{Valensbånd}(m)= \frac{\pi^2\hbar^2}{2m_{hull}L^2}m^2
+ \end{equation} 
+$$

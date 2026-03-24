@@ -23,3 +23,30 @@ Correction of accelerometer
 ![[Pasted image 20260302114108.png]]
 Proof of Kalman filter "fungerer"
 
+
+
+
+ \begin{equation} 
+ p_{k+1} = p_{k} + \Delta t \cdot v_{k} + \frac{(\Delta t)^2}{2} \cdot a_{k}
+
+ \end{equation} 
+
+
+ \begin{equation} 
+ v_{k+1} = v_{k} + \Delta t *(a_{k}+b_{k})
+ \end{equation} 
+
+ \begin{equation} 
+ b_{k+1} = b_{k}
+
+
+ \end{equation} 
+
+
+ \begin{equation} 
+ y_{k} = p_{k}
+ \end{equation} 
+
+ \begin{equation} 
+ x = \text{atan2} (v_{k}[1],v_{k}[0])     
+ \end{equation} 

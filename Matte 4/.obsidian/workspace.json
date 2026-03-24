@@ -4,43 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5be8624607243af2",
+        "id": "42b749e238c66d32",
         "type": "tabs",
         "children": [
           {
-            "id": "e95f44ea1499acb3",
+            "id": "962d4a390bdd3a28",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-9/4-9.pdf"
+                "file": "Arbeidshefter/4-10/4-10.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-9"
-            }
-          },
-          {
-            "id": "405cf3afe0dcc03e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/4-9/4-9-lf.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4-9-lf"
-            }
-          },
-          {
-            "id": "46ddc1cf7e6580a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/4-8/4-8.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4-8"
+              "title": "4-10"
             }
           }
         ]
@@ -213,19 +189,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e95f44ea1499acb3",
+  "active": "962d4a390bdd3a28",
   "lastOpenFiles": [
-    "Arbeidshefter/4-9/4-9-lf.pdf",
-    "Arbeidshefter/4-9/4-9.pdf",
-    "Arbeidshefter/4-8/4-8.pdf",
-    "Arbeidshefter/4-8/4-8-lf.pdf",
-    "Arbeidshefter/4-9",
-    "Arbeidshefter/4-3/4-3.pdf",
-    "Arbeidshefter/4-7/4-7-lf.pdf",
-    "Arbeidshefter/4-7/4-7.pdf",
     "Arbeidshefter/4-4/4-4.pdf",
     "Arbeidshefter/4-5/4-5.pdf",
     "Arbeidshefter/4-6/4-6.pdf",
+    "Arbeidshefter/4-7/4-7.pdf",
+    "Arbeidshefter/4-8/4-8.pdf",
+    "Arbeidshefter/4-9/4-9.pdf",
+    "Arbeidshefter/4-10/4-10.pdf",
+    "Arbeidshefter/4-11/4-11.pdf",
+    "Forelesninger/K-11.md",
+    "Arbeidshefter/4-11/4-11-lf.pdf",
+    "Pasted image 20260318145843.png",
+    "Pasted image 20260318145753.png",
+    "Arbeidshefter/4-3/4-3.pdf",
+    "Arbeidshefter/4-9/4-9-lf.pdf",
     "Untitled.md",
     "Test 2.md",
     "Forelesninger/Forelesning 11.18.25.md",
@@ -256,10 +235,7 @@
     "Forelesninger/Kap 3-5 16.09.25.md",
     "Forelesninger/Kap 3-4 09.09.25.md",
     "Forelesninger/Kap 3-6 23.09.25.md",
-    "Forelesninger/Kap 3-1 19.08.25.md",
     "Bilder/Forelesninger/Pasted image 20250930094426.png",
-    "Bilder/Forelesninger/30.09.25 Bilde nr 3.jpg",
-    "Bilder/Forelesninger/30.09.25 Bilde nr 2.jpg",
-    "Bilder/Forelesninger/30.09.25 Bilde nr 1.jpg"
+    "Bilder/Forelesninger/30.09.25 Bilde nr 3.jpg"
   ]
 }
