@@ -6,55 +6,52 @@
       {
         "id": "f277e363d0fe4343",
         "type": "tabs",
-        "dimension": 46.37832204273059,
         "children": [
           {
-            "id": "ee9fb9cee4234b54",
+            "id": "7e82abc21e78173a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/Exercise 10/Exercise 10.md",
+                "file": "Exercises/Exercise 13/Exercise 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercise 10"
+              "title": "Exercise 13"
             }
           }
         ]
       },
       {
-        "id": "670d6c19d4bc1df7",
+        "id": "a3f5b9d17e779dc6",
         "type": "tabs",
-        "dimension": 53.62167795726941,
         "children": [
           {
-            "id": "238bba60424a8449",
+            "id": "cb0d9dd74c99503e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Bilder/elmag5thEd.pdf"
+                "file": "Exercises/Exercise 13/Exercise_Session_13_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exercise_Session_13_2026"
+            }
+          },
+          {
+            "id": "dead4e94d594b752",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elmag5thEd.pdf"
               },
               "icon": "lucide-file-text",
               "title": "elmag5thEd"
             }
-          },
-          {
-            "id": "c65627e1b0a77d5a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exercises/Exercise 10/Exercise_Session_10_2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise_Session_10_2026"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,39 +220,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ee9fb9cee4234b54",
+  "active": "7e82abc21e78173a",
   "lastOpenFiles": [
-    "Exercises/Exercise 10/Exercise 10.pdf",
-    "Pasted image 20260324145118.png",
-    "Exercises/Exercise 10/Exercise_Session_10_2026.pdf",
+    "Exercises/Exercise 13/Exercise 13.pdf",
+    "Pasted image 20260424124433.png",
+    "Pasted image 20260424124418.png",
+    "Exercises/Exercise 13/Exercise_Session_13_2026.pdf",
+    "Exercises/Exercise 13/Exercise 13.md",
+    "elmag5thEd.pdf",
+    "Lab.md",
+    "Bilder/Pasted image 20260109114653.png",
     "Exercises/Exercise 10/Exercise 10.md",
-    "Pasted image 20260324142922.png",
-    "Bilder/elmag5thEd.pdf",
-    "Pasted image 20260324140946.png",
-    "Pasted image 20260324125507.png",
-    "TTT4270 notes.md",
+    "Exercises/Exercise 12/Exercise 12.md",
+    "Exercises/Exercise 13",
+    "Exercises/Exercise 12/Exercise 12.pdf",
+    "Pasted image 20260413164032.png",
+    "Pasted image 20260413164024.png",
+    "Pasted image 20260413164011.png",
+    "Pasted image 20260413164006.png",
+    "Pasted image 20260413163957.png",
+    "Exercises/Exercise 12/Exercise_Session_12_2026(1).pdf",
+    "Exercises/Exercise 3/1000142137_260201_151150.pdf",
     "Exercises/Exercise 9/Exercise 9.md",
-    "Pasted image 20260224170914.png",
-    "Bilder/Pasted image 20260317150536.png",
-    "Bilder/Pasted image 20260317150513.png",
-    "Bilder/Pasted image 20260306133200.png",
-    "Bilder/Pasted image 20260306133142.png",
-    "Bilder/Pasted image 20260305163351.png",
-    "Exercises/Exercise 9/Exercise_Session_9_2026.pdf",
-    "Exercises/Exercise 9/Exercise 9.pdf",
-    "Exercises/Exercise 9",
-    "Exercises/Exercise 8/Exercise 8.md",
-    "Exercises/Exercise 8/Exercise_Session_8_2026(1).pdf",
-    "Exercises/Exercise 8/Exercise_Session_8_2026.pdf",
-    "Exercises/Exercise 8/Exercise 8 (copy).zip",
-    "Exercises/Exercise 8/Exercise 8 (copy).pdf",
-    "Exercises/Exercise 8/Exercise 8.pdf",
-    "Lab 2 notes.md",
     "Exercises/Exercise 7/Exercise 7.md",
     "Exercises/Exercise 6/Exercise 6.md",
+    "Exercises/Exercise 7/Exercise_Session_7_2026.pdf",
+    "Exercises/Exercise 8/Exercise 8.md",
+    "Exercises/Exercise 8/Exercise_Session_8_2026.pdf",
+    "Exercises/Exercise 8/Exercise_Session_8_2026(1).pdf",
+    "Exercises/Exercise 11/Exercise 11.md",
+    "Exercises/Exercise 11/Exercise 11.pdf",
+    "Pasted image 20260330134506.png",
+    "Pasted image 20260330134435.png",
+    "TTT4270 notes.md",
+    "Lab 2 notes.md",
     "Exercises/Exercise 6/test.md",
     "Exercises/Exercise 5/Exercise 5.md",
-    "Lab.md",
     "Exercises/Exercise 2/Exercise 2.md",
     "Exercises/Exercise 1/Exercise 1 Vector Analysis 1.md",
     "Forelesninger/Forelesning 01.16.26.md",
@@ -267,9 +267,6 @@
     "Forelesninger/Kap 3-7 30.09.25.md",
     "Forelesninger/Kap 3-12 11.11.25.md",
     "Eksamen/Ting skal kunne og må jobbe med.md",
-    "Arbeidshefter/3-4/Oppgaver 1 1.md",
-    "Arbeidshefter/3-3/Oppgaver.md",
-    "Arbeidshefter/3-2/Oppgaver.md",
-    "Arbeidshefter/3-1/Oppgaver.md"
+    "Arbeidshefter/3-4/Oppgaver 1 1.md"
   ]
 }

@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "962d4a390bdd3a28",
+            "id": "fbdfa7eed6e7a0ca",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/4-10/4-10.pdf"
+                "file": "Arbeidshefter/4-12/4-12.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4-10"
+              "title": "4-12"
+            }
+          },
+          {
+            "id": "f96d9f7d315b8912",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/4-12/4-12-lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-12-lf"
+            }
+          },
+          {
+            "id": "6bcfbac5c0d1599a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Eksamen/4121-25v-bm.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4121-25v-bm"
+            }
+          },
+          {
+            "id": "1bb1df97032f295d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/4-8/4-8.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-8"
+            }
+          },
+          {
+            "id": "be6cbd57999ccce9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/4-8/4-8- ekstra lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4-8- ekstra lf"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,22 +238,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "962d4a390bdd3a28",
+  "active": "6bcfbac5c0d1599a",
   "lastOpenFiles": [
-    "Arbeidshefter/4-4/4-4.pdf",
-    "Arbeidshefter/4-5/4-5.pdf",
-    "Arbeidshefter/4-6/4-6.pdf",
-    "Arbeidshefter/4-7/4-7.pdf",
     "Arbeidshefter/4-8/4-8.pdf",
+    "Arbeidshefter/4-8/4-8- ekstra lf.pdf",
+    "Arbeidshefter/4-8/4-8-lf.pdf",
+    "Eksamen/4121-25v-bm.pdf",
+    "Arbeidshefter/4-6/4-6-lf.pdf",
+    "Arbeidshefter/4-7/4-7-lf.pdf",
+    "Arbeidshefter/4-9/4-9-lf.pdf",
     "Arbeidshefter/4-9/4-9.pdf",
-    "Arbeidshefter/4-10/4-10.pdf",
     "Arbeidshefter/4-11/4-11.pdf",
+    "Arbeidshefter/4-10/4-10.pdf",
+    "Eksamen/tma4121-24v-lf.pdf",
     "Forelesninger/K-11.md",
-    "Arbeidshefter/4-11/4-11-lf.pdf",
     "Pasted image 20260318145843.png",
     "Pasted image 20260318145753.png",
-    "Arbeidshefter/4-3/4-3.pdf",
-    "Arbeidshefter/4-9/4-9-lf.pdf",
     "Untitled.md",
     "Test 2.md",
     "Forelesninger/Forelesning 11.18.25.md",
