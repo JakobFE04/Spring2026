@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6e6c970223dfa831",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9658d840d8bbc33e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Eksamemsnotat/Førebuingstema-munnleg_2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Førebuingstema-munnleg_2026"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -184,8 +165,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -193,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5,
-    "collapsed": true
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,39 +192,40 @@
   },
   "active": "c2d0bc138b570389",
   "lastOpenFiles": [
+    "Eksamemsnotat/Notater til eksamen.pdf",
+    "Pasted image 20260502104823.png",
+    "Pasted image 20260502104713.png",
+    "Pasted image 20260502104659.png",
+    "Pasted image 20260502104021.png",
+    "Pasted image 20260502103654.png",
+    "Pasted image 20260502103445.png",
+    "Pasted image 20260502103414.png",
+    "Pasted image 20260502103215.png",
+    "Pasted image 20260502103157.png",
+    "Pasted image 20260502103133.png",
     "Eksamemsnotat/Førebuingstema-munnleg_2026.pdf",
     "Eksamemsnotat/Notater til eksamen.md",
+    "Prosjektarbeid/Prosjekt 2/Notater.md",
+    "Forelesninger/Forelesning 01.06.26.md",
+    "Forelesninger/Forelesning 02.24.26.md",
+    "Forelesninger/Forelesning 02.17.26.md",
     "Eksamemsnotat/Forberedelsesark samlet.md",
     "Prosjektarbeid/Prosjekt 7/Notater.md",
     "Prosjektarbeid/Prosjekt 7/2 c.ggb",
     "Førelesingsplan_2026.pdf",
     "Prosjektarbeid/Prosjekt 7",
     "Faststoff Bok.pdf",
-    "Forelesninger/Forelesning 02.17.26.md",
-    "Forelesninger/Forelesning 01.06.26.md",
-    "BIlder/100.png",
-    "BIlder/111.png",
-    "BIlder/110.png",
     "Video notater/Notat 1.md",
-    "Forelesninger/Forelesning 02.24.26.md",
     "Prosjektarbeid/Prosjekt 5/Prosjekt 5 notat.md",
     "Prosjektarbeid/Prosjekt 5/Grunnlag_for_kvantemekanikk_og_faststoffelektronikk_prosjekt_5.pdf",
     "Prosjektarbeid/info om prosjektarbeid.pdf",
     "Prosjektarbeid/Prosjekt 4/Notater.md",
     "Prosjektarbeid/Prosjekt 3/Notat.md",
-    "Prosjektarbeid/Prosjekt 2/Notater.md",
     "Prosjektarbeid/Prosjekt 1/Notater prosjekt 1.md",
     "Prosjektarbeid/Prosjekt 1/Prosjekt 1.pdf",
     "Prosjektarbeid/Prosjekt 5/Oppgave 1.ggb",
     "Prosjektarbeid/Prosjekt 5",
-    "BIlder/Pasted image 20260224114747.png",
-    "BIlder/Pasted image 20260217104403.png",
-    "BIlder/Pasted image 20260120133218.png",
-    "BIlder/Pasted image 20260112133232.png",
-    "BIlder/Pasted image 20260107091409.png",
     "Test.md",
-    "Pasted image 20260106090311.png",
-    "Pasted image 20260106085851.png",
     "Forelesninger/Forelesning 11.18.25.md",
     "Untitled 1.md",
     "Arbeidshefter/3-12/Oppgaver 1.md",
