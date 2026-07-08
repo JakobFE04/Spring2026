@@ -14,14 +14,41 @@
               "type": "markdown",
               "state": {
                 "file": "Eksamemsnotat/Notater til eksamen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Notater til eksamen"
             }
+          },
+          {
+            "id": "d8448467f350c611",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Eksamemsnotat/Førebuingstema-munnleg_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Førebuingstema-munnleg_2026"
+            }
+          },
+          {
+            "id": "73089ca59e399115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notater informasjonsmøte om valg av hovedprofiler (Jakob gjorde sitt beste og spør han om du lurer på noe mer!).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notater informasjonsmøte om valg av hovedprofiler (Jakob gjorde sitt beste og spør han om du lurer på noe mer!)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -174,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 481.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,22 +219,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15bc08506c3f4bdd",
+  "active": "73089ca59e399115",
   "lastOpenFiles": [
-    "BIlder/Pasted image 20260502104823.png",
-    "BIlder/Pasted image 20260502104713.png",
-    "BIlder/Pasted image 20260502104659.png",
-    "BIlder/Pasted image 20260502104021.png",
-    "BIlder/Pasted image 20260502103654.png",
-    "BIlder/Pasted image 20260502103445.png",
-    "BIlder/Pasted image 20260502103414.png",
-    "BIlder/Pasted image 20260502103215.png",
-    "BIlder/Pasted image 20260502103157.png",
-    "BIlder/Pasted image 20260502103133.png",
-    "BIlder/Pasted image 20260502103119.png",
-    "Eksamemsnotat/Notater til eksamen.pdf",
-    "Eksamemsnotat/Førebuingstema-munnleg_2026.pdf",
+    "BIlder/Pasted image 20260504104437.png",
+    "Notater informasjonsmøte om valg av hovedprofiler (Jakob gjorde sitt beste og spør han om du lurer på noe mer!).md",
     "Eksamemsnotat/Notater til eksamen.md",
+    "BIlder/Pasted image 20260509160533.png",
+    "BIlder/Pasted image 20260504104247.png",
+    "BIlder/Pasted image 20260504104236.png",
+    "BIlder/Pasted image 20260504103230.png",
+    "BIlder/Pasted image 20260504102233.png",
+    "BIlder/Pasted image 20260504101718.png",
+    "BIlder/Pasted image 20260504101404.png",
+    "BIlder/Pasted image 20260504101223.png",
+    "Pasted image 20260509160533.png",
+    "Eksamemsnotat/Førebuingstema-munnleg_2026.pdf",
+    "Førelesingsplan_2026.pdf",
+    "Prosjektarbeid/Prosjekt 1/Fastoff Prosjekt 1 gruppe 11.pdf",
+    "Eksamemsnotat/Notater til eksamen.pdf",
     "Prosjektarbeid/Prosjekt 2/Notater.md",
     "Forelesninger/Forelesning 01.06.26.md",
     "Forelesninger/Forelesning 02.24.26.md",
@@ -213,7 +244,6 @@
     "Eksamemsnotat/Forberedelsesark samlet.md",
     "Prosjektarbeid/Prosjekt 7/Notater.md",
     "Prosjektarbeid/Prosjekt 7/2 c.ggb",
-    "Førelesingsplan_2026.pdf",
     "Prosjektarbeid/Prosjekt 7",
     "Faststoff Bok.pdf",
     "Video notater/Notat 1.md",
@@ -224,7 +254,6 @@
     "Prosjektarbeid/Prosjekt 3/Notat.md",
     "Prosjektarbeid/Prosjekt 1/Notater prosjekt 1.md",
     "Prosjektarbeid/Prosjekt 1/Prosjekt 1.pdf",
-    "Prosjektarbeid/Prosjekt 5/Oppgave 1.ggb",
     "Test.md",
     "Forelesninger/Forelesning 11.18.25.md",
     "Untitled 1.md",
@@ -236,7 +265,6 @@
     "Arbeidshefter/3-3/Oppgaver.md",
     "Arbeidshefter/3-2/Oppgaver.md",
     "Arbeidshefter/3-1/Oppgaver.md",
-    "Arbeidshefter/3-7/Oppgaver 1.md",
-    "Arbeidshefter/3-9/Oppgaver 1.md"
+    "Arbeidshefter/3-7/Oppgaver 1.md"
   ]
 }

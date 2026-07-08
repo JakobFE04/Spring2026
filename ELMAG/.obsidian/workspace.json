@@ -20,15 +20,9 @@
               "icon": "lucide-file",
               "title": "Cheat sheet"
             }
-          }
-        ]
-      },
-      {
-        "id": "a3f5b9d17e779dc6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "dead4e94d594b752",
+            "id": "70aa494f15629098",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -38,8 +32,33 @@
               "icon": "lucide-file-text",
               "title": "elmag5thEd"
             }
+          },
+          {
+            "id": "ebc752872dc8444f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam/TFE4120_exam_2025_aug_solutions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TFE4120_exam_2025_aug_solutions"
+            }
+          },
+          {
+            "id": "813233ca8dc76a0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam/TFE4120_exam_2024_june_solutions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TFE4120_exam_2024_june_solutions"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -192,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,43 +228,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7b2e198704e0f071",
+  "active": "ebc752872dc8444f",
   "lastOpenFiles": [
-    "Pasted image 20260502133009.png",
+    "Exam/TFE4120_exam_2025_june_solutions.pdf",
+    "Exam/TFE4120_exam_2024_june_solutions.pdf",
     "elmag5thEd.pdf",
     "Exam/Cheat sheet.md",
-    "Pasted image 20260502131737.png",
-    "Pasted image 20260502115343.png",
+    "Exam/TFE4120_exam_2025_aug_solutions.pdf",
+    "Exam/TFE4120_exam_2024_aug_solutions.pdf",
+    "Exercises/Exercise 5/Exercise 5.md",
+    "Bilder/Pasted image 20260502153009.png",
+    "Bilder/Pasted image 20260502133009.png",
+    "Bilder/Pasted image 20260502131737.png",
+    "Bilder/Pasted image 20260502115343.png",
+    "Bilder/Pasted image 20260424124433.png",
+    "Bilder/Pasted image 20260424124418.png",
+    "Bilder/Pasted image 20260413164032.png",
+    "Bilder/Pasted image 20260413164024.png",
+    "Bilder/Pasted image 20260413164011.png",
+    "Bilder/Pasted image 20260413164006.png",
+    "Exercises/Exercise 9/Exercise 9.md",
+    "Exam/Cheat sheet.pdf",
     "Exercises/Exercise 13/Exercise 13.md",
     "Exercises/Exercise 13/Exercise 13.pdf",
-    "Pasted image 20260424124433.png",
-    "Pasted image 20260424124418.png",
     "Exercises/Exercise 13/Exercise_Session_13_2026.pdf",
     "Lab.md",
-    "Bilder/Pasted image 20260109114653.png",
     "Exercises/Exercise 10/Exercise 10.md",
     "Exercises/Exercise 12/Exercise 12.md",
     "Exercises/Exercise 13",
     "Exercises/Exercise 12/Exercise 12.pdf",
-    "Pasted image 20260413164032.png",
-    "Pasted image 20260413164024.png",
-    "Pasted image 20260413164011.png",
-    "Pasted image 20260413164006.png",
-    "Pasted image 20260413163957.png",
-    "Exercises/Exercise 12/Exercise_Session_12_2026(1).pdf",
-    "Exercises/Exercise 3/1000142137_260201_151150.pdf",
-    "Exercises/Exercise 9/Exercise 9.md",
     "Exercises/Exercise 7/Exercise 7.md",
     "Exercises/Exercise 6/Exercise 6.md",
-    "Exercises/Exercise 7/Exercise_Session_7_2026.pdf",
     "Exercises/Exercise 8/Exercise 8.md",
-    "Exercises/Exercise 8/Exercise_Session_8_2026.pdf",
-    "Exercises/Exercise 8/Exercise_Session_8_2026(1).pdf",
     "Exercises/Exercise 11/Exercise 11.md",
     "TTT4270 notes.md",
     "Lab 2 notes.md",
     "Exercises/Exercise 6/test.md",
-    "Exercises/Exercise 5/Exercise 5.md",
     "Exercises/Exercise 2/Exercise 2.md",
     "Exercises/Exercise 1/Exercise 1 Vector Analysis 1.md",
     "Forelesninger/Forelesning 01.16.26.md",

@@ -26,15 +26,15 @@ Deler hvordan bølgen beveger seg i to:
 ## Bølgelikninga i ein dimensjon 
 $$
  \begin{equation} 
- \frac{1}{v^2} \frac{\partial^2y}{\partial dt^2}=\frac{\partial^2y}{\partial dx^2} 
+ \frac{1}{v^2} \frac{\partial^2y}{\partial t^2}=\frac{\partial^2y}{\partial x^2} 
  \end{equation} 
 $$
-Alle bølgefenomener vil tilfredstille denne differensial likningen.
+Alle bølgefenomener vil tilfredstille denne differensial likningen.  At vi får konstanten fart finner vi utifra enhetene når løser oss fram til bølgelikningen. Generell løsning kan være f.eks. en harmonisk bølge.
 ## Harmoniske bølger 
 Harmonisk bølge
 $$
  \begin{equation} 
- y(x)=A\cos(kx-\omega T+\phi) = \mathrm{Re}\{Ae^{i(kx-\omega t+\phi)}\}
+ y(x)=A\cos(kx-\omega t+\phi) = \mathrm{Re}\{Ae^{i(kx-\omega t+\phi)}\}
  \end{equation} 
 $$
 Der $k$ er "romfrekvensen" eller bølgetallet, hvor ofte noe skjer i rom, $k= \frac{2\pi}{\lambda} [\frac{1}{meter}]$
@@ -43,7 +43,7 @@ Der $f$ er "Frekvensen", hvor ofte noe skjer i tid, $f=\frac{1}{T} \ \left[ \fra
 Og $T$ er "Perioden", $T=\frac{1}{\lambda}$
 
 ## Ståande bølger 
-Stående bølger vil si bølger som kun "svinger opp og ned" eller transverse bølger, altså at det ikke er noen longitudinale bølger eller at den beveger seg fram og tilbake i rommet. Kan oppnå ved å feste fast endepunktene i en fjær som svinger eller bølgefunksjonene i en uendelig kvantebrønn over tid.
+Stående bølger vil si bølger som kun "svinger opp og ned" eller transverse bølger, altså at det ikke er noen longitudinale bølger eller at den beveger seg fram og tilbake i rommet. Kan oppnå ved å feste fast endepunktene i en fjær som svinger eller bølgefunksjonene i en uendelig kvantebrønn over tid. Stående bølger vil ha **noder**, som vil si punkter der utsvinget alltid er null (i kantene om de er festet eller midt i mellom bølge topp/bunn). I tillegg vil de ha **anti-noder** som er punktene som oppnår maksimal utsving (topp bunn ekstremalpunkt).
 
 ## Bølgepakker 
 Max Plank som kom med ideen om at lys kom oppgitt som bølgepakker. Bølgepakker består av flere bølger avgrenset i rom og tid (lokalisert) som beskriver sannsynligheten for å finne et foton eller et elektron med en gitt energi som Einstein fant ved fotoelektrisk effekt: $E = \hbar \omega$. 
@@ -124,13 +124,15 @@ Målepostulatet sier to ting:
 $$
 ![[Pasted image 20260429144431.png|500]]
 
+Etter litt tid kan systemet gå tilbake til å ha flere tilstander, men dersom du raskt/kontinuerlig måler det samme systemet så vil den beholde den samme målte tilstanden.
+
 ## Endeleg kvantebrønn 
 I en endelig kvantebrønn vil det være mye likt med en uendelig, men nå er potensialet for å slippe ut av brønnen en satt verdi. Dette kan brukes som en modell for et elektron bundet til en atomkjerne hvor den må få nok energi til å slippe fri fra atomkjernen/kvantebrønnen. Vi vil lete etter bundede tilstander:
 ![[Pasted image 20260501092530.png]]
 - Dersom et kvanteobjekt oppfinner seg i det klassiske forbudt området (Region I eller III men energi mindre enn brønnen) så vil den ha negativ kinetisk energi.
 - Bølgefunksjonen i K.F.O vil bli dempet, jo dypere brønnen er til den går mot 0 for en uendelig kvantebrønn.
 Vi vil få to typer løsninger:
-- Trigonometriske løsninger for region II
+- Trigonometriske løsninger for region II 
 - Eksponentielle løsninger for region I og III
 ![[Pasted image 20260501093903.png]]
 ![[Pasted image 20260501093729.png]]
@@ -188,7 +190,7 @@ $$
 Likt en endelig kvantebrønn men nå med 3 dimensjonsakser og kvantetall $(n_{i})$. Får da:
 $$
  \begin{equation} 
- \psi(x,y,z)=\sqrt{ \frac{8}{a^3} } \sin\left( \frac{n_{x}\pi x}{a} \right) \sin\left( \frac{n_{y}\pi y}{a} \right) \sin\left( \frac{n_{z}\pi z}{a} \right) 
+ \psi_{n_{x}n_{y}n_{z}}(x,y,z)=\sqrt{ \frac{8}{a^3} } \sin\left( \frac{n_{x}\pi x}{a} \right) \sin\left( \frac{n_{y}\pi y}{a} \right) \sin\left( \frac{n_{z}\pi z}{a} \right) 
  \end{equation} 
 $$
 $$
@@ -219,7 +221,7 @@ $$
  \psi_{112} \neq  \psi_{121} \neq \psi_{211}
  \end{equation} 
 $$
-Når flere kvantetilstander svarer til samme energi, kaller vi det for **degenererte tilstander**. Dette kommer som resultat av symmetri i systemet. Men vi vet ikke hva $\psi$ er basert på energinivået når vi har degenrerte tilstander.
+Når flere kvantetilstander svarer til samme energi, kaller vi det for **degenererte tilstander**. Dette kommer som resultat av symmetri i systemet. Men vi vet ikke hva $\psi$ er basert på energinivået når vi har degenrerte tilstander. NB! Paulies usikkerhetsprinsipp tilsier at vi kan ha 2 ulike elektroner med samme degenerasjon, så lenge de har ulike spinn!
 ![[Pasted image 20260501110507.png|500]]
 
 
@@ -252,7 +254,6 @@ Alle trinnene har samme form, men $m$ endrer orienteringen på "blobbene"/Orbita
 ## Elektronkonfigurasjon 
 Måten elektroner fordeler seg i orbitaler.
 ![[Pasted image 20260501113925.png]]
-
 Notasjon: Antall i eksponenten, tilstanden er potensen.
 - Oksygen (O): $(1s^2)2s^22p^4$ => parantes vanligvis ikke med, tilsvarer Helium (første edelgass), så sier har $^2$ 2s orbitaler + $^4$ 2p orbitaler som lander da på oksygen!
 - Magnesium (Mg): $3s^2$ => fylte opp til Ne = $2s^22p^6$ også $3s^2$ til.
@@ -274,7 +275,7 @@ $r_{0}$ representerer bindingslengden, og $U_{0}$ representerer bindingsenergien
 
 # 4 - Krystallografi og fonon (12 - 15 & 22-23)
 ## Faste stoff 
-![[Pasted image 20260501132933.png|500]]
+![[Pasted image 20260501115800.png|500]]
 Ulike typer faste stoff:
 ![[Pasted image 20260501114819.png]]
 Ordnet fast stoff: Krystallinske  Mellomting: flere systematiske, lokal orden  Uordnet fast stoff:                                                                                                                                    "tilfeldig" ordning
@@ -282,16 +283,15 @@ Ordnet fast stoff: Krystallinske  Mellomting: flere systematiske, lokal orden  U
 
 ## Krystallar, basis og gitter 
 ### Basis + gitter = krystall
-- Atomer stoffet er sammensatt av. (Basis)
-- Mattematiske punkt kan plassere basiser. (Gitter)
+- Atomer/molekyl stoffet er sammensatt av. (Basis)
+- Mattematiske punkt i rommet kan plassere basiser. (Gitter)
 - Sammensetting av basis i gitter. (Krystall)
-
 
 ## Einingsceller og Bravaisgitter
 ### Enhetscelle:
 - Minste byggeklossen som beskriver gitteret
 - Kan __ikke__ roteres, og har 1/4 eller 1/8 elektron i hjørnene
-- Kjenner til hele krystallen om en kam enhetscellen
+- Kjenner til hele krystallen om en kan enhetscellen
 - Skal fylle rommet uten hull
 Kan ha primitiv enhetsceller og konvensjonelle:
 Konvensjonell:
@@ -300,7 +300,7 @@ Konvensjonell:
 Primitve:
 - Inneholder bare et gitterpunkt
 - Har 1/4 eller 1/8 deler av gitterpunkt.
-##### Eks: SCC
+##### Eks: SC
 ![[Pasted image 20260501152948.png]]
 ##### EKS: BCC
 ![[Pasted image 20260501153254.png|500]]
@@ -344,6 +344,9 @@ Når vi har en linje med gitterpunkt bortover, så vil de tilsvare en romlig fre
 
 ![[Pasted image 20260501162346.png|500]]
 ![[Pasted image 20260501162750.png|500]]
+### Difraksjon
+Vi vil få konstruktiv interferens dersom vi har en bølge som beskrives med en vektor $\vec{k}$, som treffer Bragg-planet (1.Brillouiszone veggen). Bølgen sin bølgelengde og retning representeres med $\vec{k}$, så kan ha en lengre bølgelengde om har rett vinkel på bølgen. Om den ikke treffer får du destruktiv interferrens.
+![[Pasted image 20260509160533.png|500]]
 
 ## Fonon
 ![[Pasted image 20260501163331.png|500]]
@@ -373,13 +376,13 @@ $$
  \psi(x)=e^{ikx}u(x) 
  \end{equation} 
 $$
-Der $e^{ikx}$ er en plabølge.
-Og $u(x)$ er en funksjon med samme periodisitet som krystallen ($u(x)=u(x+R)$).
+Der $e^{ikx}$ er en planbølge.
+Og $u(x)$ er en funksjon med samme periodisitet som krystallen ($u(x)=u(x+R)$) hvor krystallen looper seg selv (Von Born Karman).
 ## Løysingane til Kronig-Penney modellen 
 ![[Pasted image 20260501174117.png|500]]
 
 ## Dispersjonsrelasjonen, E(k) 
-Dispersjonsrelasjonen er navnet på funksjonen for E(k). 
+Dispersjonsrelasjonen er navnet på funksjonen for E(k) (Eller $\omega(k)$ for fonon). Kommer egentlig fra $\omega(k)$ og tar for seg forholdet mellom romlig frekvens og tidsfrekvensen til et system. Men vi skriver ofte om til E(k):
 $$
  \begin{equation} 
  k = \frac{2\pi}{\lambda} \implies E(k)=\frac{\hbar^2k^2}{2m}
@@ -402,9 +405,6 @@ På grunn av aliasing beveger oss rundi \[$-\pi/a, \pi/a$]  som fører til at vi
 
 | ![[Pasted image 20260502103119.png\|500]] | ![[Pasted image 20260502103133.png\|500]] |
 | ----------------------------------------- | ----------------------------------------- |
-
-
-
 
 ## Tilstandstettleik (DOS) 
 ![[Pasted image 20260502103157.png]]
