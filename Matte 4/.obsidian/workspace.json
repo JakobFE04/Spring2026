@@ -71,12 +71,14 @@
             "id": "3bed3746d35a068c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Arbeidshefter/4-6/4-6-lf.pdf"
+                "file": "Forelesninger/K-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4-6-lf"
+              "icon": "lucide-file",
+              "title": "K-11"
             }
           }
         ],
@@ -249,10 +251,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15bc08506c3f4bdd",
+  "active": "3bed3746d35a068c",
   "lastOpenFiles": [
-    "Arbeidshefter/4-6/4-6.pdf",
     "Arbeidshefter/4-6/4-6-lf.pdf",
+    "Arbeidshefter/4-6/4-6.pdf",
     "Arbeidshefter/4-3/4-3-lf.pdf",
     "Eksamen/tma4121-24k-bm.pdf",
     "Arbeidshefter/4-3/4-3.pdf",
