@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "813233ca8dc76a0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam/TFE4120_exam_2024_june_solutions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TFE4120_exam_2024_june_solutions"
+            }
+          },
+          {
             "id": "70aa494f15629098",
             "type": "leaf",
             "state": {
@@ -44,21 +56,9 @@
               "icon": "lucide-file-text",
               "title": "TFE4120_exam_2025_aug_solutions"
             }
-          },
-          {
-            "id": "813233ca8dc76a0f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exam/TFE4120_exam_2024_june_solutions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TFE4120_exam_2024_june_solutions"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -106,7 +108,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -211,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,13 +232,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ebc752872dc8444f",
+  "active": "813233ca8dc76a0f",
   "lastOpenFiles": [
+    "Exam/TFE4120_exam_2025_aug_solutions.pdf",
     "Exam/TFE4120_exam_2025_june_solutions.pdf",
     "Exam/TFE4120_exam_2024_june_solutions.pdf",
     "elmag5thEd.pdf",
     "Exam/Cheat sheet.md",
-    "Exam/TFE4120_exam_2025_aug_solutions.pdf",
     "Exam/TFE4120_exam_2024_aug_solutions.pdf",
     "Exercises/Exercise 5/Exercise 5.md",
     "Bilder/Pasted image 20260502153009.png",
