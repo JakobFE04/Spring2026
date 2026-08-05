@@ -46,6 +46,18 @@
               "icon": "lucide-file",
               "title": "Notater informasjonsmøte om valg av hovedprofiler (Jakob gjorde sitt beste og spør han om du lurer på noe mer!)"
             }
+          },
+          {
+            "id": "36a714f3b70cad54",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "BIlder/Pasted image 20260504101404.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260504101404"
+            }
           }
         ],
         "currentTab": 2
@@ -221,8 +233,9 @@
   },
   "active": "73089ca59e399115",
   "lastOpenFiles": [
-    "BIlder/Pasted image 20260504104437.png",
+    "BIlder/Pasted image 20260504101404.png",
     "Notater informasjonsmøte om valg av hovedprofiler (Jakob gjorde sitt beste og spør han om du lurer på noe mer!).md",
+    "BIlder/Pasted image 20260504104437.png",
     "Eksamemsnotat/Notater til eksamen.md",
     "BIlder/Pasted image 20260509160533.png",
     "BIlder/Pasted image 20260504104247.png",
@@ -230,7 +243,6 @@
     "BIlder/Pasted image 20260504103230.png",
     "BIlder/Pasted image 20260504102233.png",
     "BIlder/Pasted image 20260504101718.png",
-    "BIlder/Pasted image 20260504101404.png",
     "BIlder/Pasted image 20260504101223.png",
     "Pasted image 20260509160533.png",
     "Eksamemsnotat/Førebuingstema-munnleg_2026.pdf",
